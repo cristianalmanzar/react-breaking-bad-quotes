@@ -29,4 +29,5 @@ body{
 .primary {
     background: #03a9f4;  /* fallback for old browsers */
     color: white;
+    font-weight: 100;
 }
